@@ -151,4 +151,4 @@ for class_name in os.listdir(jpeg_input_folder):
         remove_isolated_white_pixels_and_apply_clahe(input_image_path, output_image_path)
 
         # Step 2: Remove text from the image using EasyOCR
-        remove_text_using_easyocr(output_image_path, output_image_path)  # This will overwrite the file with the text removed
+        remove_text_using_easyocr(output_image_path, output_image_path)
