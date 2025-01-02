@@ -15,6 +15,8 @@ This repository contains various components for a machine learning project focus
         - Contains the code for processing raw DICOM mammograms.
         - Converts DICOM images to JPEG.
         - Applies image processing techniques to remove text, noise, and inconsistencies from the mammograms.
+     
+      
         ![alt text](<src/dicom_to_jpeg/Screenshot 2025-01-01 145223.png>)
         ![alt text](<src/dicom_to_jpeg/Screenshot 2025-01-01 145334.png>)
     - **optuna**
